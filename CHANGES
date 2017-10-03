@@ -20,6 +20,7 @@ Bugs fixed
 * #4100: Remove debug print from autodoc extension
 * #3987: Changing theme from alabaster causes HTML build to fail
 * #4096: C++, don't crash when using the wrong role type. Thanks to mitya57.
+* #4108: Search word highlight breaks SVG images
 
 Testing
 --------
